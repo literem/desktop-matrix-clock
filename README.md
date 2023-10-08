@@ -4,4 +4,10 @@
 
 
 
+**视频演示效果**
+
+【【开源】使用ESP8266单片机自制一个WiFi网络时钟】 https://www.bilibili.com/video/BV1ih4y1B7jL/?share_source=copy_web&vd_source=3b521714205edc9e868eb79d7cf2244a
+
+
+
 ![image-20231008_150359.jpg](https://github.com/literem/desktop-matrix-clock/blob/main/3.%E5%9B%BE%E7%89%87/IMG_20231008_150359.jpg?raw=true)
